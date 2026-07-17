@@ -1,0 +1,11 @@
+# 不作为静态资源公开上传的文件 / 目录（gitignore 语法）
+.git
+.gitignore
+.wrangler
+.assetsignore
+node_modules
+worker
+wrangler.jsonc
+package.json
+package-lock.json
+*.map
